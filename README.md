@@ -3,6 +3,7 @@
 # Meet Me! - 마이홈과 이벤트를 통한 일상 및 취미 공유사이트
 * M&M
 * 02/06/2020 ~ 12/30/2019
+* <a href="https://www.slideshare.net/hyunyoonkim/meet-me-project">MeetMe! PPT</a>
 ----
 **개발 목표**
 
